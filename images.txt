@@ -2,6 +2,6 @@
 # styletang/rocketmq-console-ng:latest
 mysql:8.0.40-debian
 redis:latest
-nacos:c8dc1db0ac6a
+nacos/nacos-server:c8dc1db0ac6a
 nginx:94945835adc3
 
