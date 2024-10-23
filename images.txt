@@ -4,4 +4,5 @@ mysql:8.0.40-debian
 redis:latest
 nacos/nacos-server:latest
 nginx:stable-bookworm
+rabbitmq:management
 
