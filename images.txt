@@ -6,3 +6,4 @@ nacos/nacos-server:latest
 nginx:stable-bookworm
 rabbitmq:management
 mysql:latest
+mysql:5.7
